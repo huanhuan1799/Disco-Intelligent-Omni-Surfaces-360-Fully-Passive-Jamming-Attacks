@@ -1,9 +1,7 @@
 # Disco-Intelligent-Omni-Surfaces-360-Fully-Passive-Jamming-Attacks
 We highly respect reproducible research, so we try to provide the simulation codes for our published papers. There are some codes for our TWC paper "Disco Intelligent Omni-Surfaces: 360◦ Fully-Passive Jamming Attacks."
 
-If you use this simulation code package in any way, please cite the original paper above.
-
-For more details about the DISCO idea, please refer to our paper as follows:
+If you use this simulation code package in any way, please cite our related papers. For more details about the DISCO idea, please refer to our published papers as follows:
 
 H. Huang, L. Dai, H. Zhang, C. Zhang, Z. Tian, Y. Cai, A. L. Swindlehurst, and Z. Han, “DISCO might not be funky: Random intelligent reflective surface configurations that attack,” IEEE Wireless Commun., vol. 31, no. 5, pp. 76-82, Oct. 2024
 
